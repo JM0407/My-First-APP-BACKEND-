@@ -1,0 +1,6 @@
+Flask is a programm which you use with python to create website.
+You can also use flask tomake restful api's
+It is a module use to create micro services, since it is lightweight
+
+REST-> REpresentational State Transfer
+API-> Application Programming Interface
